@@ -200,7 +200,7 @@ Take the same instructions as BeyondBoundingBox. See [Training and Inference](ht
 
 ## Citation
 
-If this is useful for your research, please consider cite.
+If this is useful for your research, please consider citing following works.
 
 ```
 @article{hou2023g,
@@ -214,7 +214,6 @@ If this is useful for your research, please consider cite.
   publisher={MDPI}
 }
 
-
 @inproceedings{guo2021beyond,
   title={Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection},
   author={Guo, Zonghao and Liu, Chang and Zhang, Xiaosong and Jiao, Jianbin and Ji, Xiangyang and Ye, Qixiang},
@@ -222,7 +221,6 @@ If this is useful for your research, please consider cite.
   pages={8792--8801},
   year={2021}
 }
-
 
 @inproceedings{xia2018dota,
   title={DOTA: A large-scale dataset for object detection in aerial images},
@@ -232,7 +230,6 @@ If this is useful for your research, please consider cite.
   year={2018}
 }
 
-
 @article{chen2019mmdetection,
   title={MMDetection: Open mmlab detection toolbox and benchmark},
   author={Chen, Kai and Wang, Jiaqi and Pang, Jiangmiao and Cao, Yuhang and Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and Liu, Ziwei and Xu, Jiarui and others},
@@ -240,4 +237,3 @@ If this is useful for your research, please consider cite.
   year={2019}
 }
 ```
-
